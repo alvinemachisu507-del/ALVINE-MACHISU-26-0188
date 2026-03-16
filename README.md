@@ -259,25 +259,11 @@ tr:hover {
 <h2>Image Gallery</h2>
 <div class="gallery">
     <div>
-        <img src="C:/Users/alvin/OneDrive/Desktop/image/1.jpg" alt="Image 1">
-        <div class="caption">Image 1</div>
-    </div>
-    <div>
-        <img src="C:/Users/alvin/OneDrive/Desktop/image/2.jpg" alt="Image 2">
-        <div class="caption">Image 2</div>
-    </div>
-    <div>
-        <img src="C:/Users/alvin/OneDrive/Desktop/image/3.jpg" alt="Image 3">
-        <div class="caption">Image 3</div>
-    </div>
-    <div>
-        <img src="C:/Users/alvin/OneDrive/Desktop/image/4.jpg" alt="Image 4">
-        <div class="caption">Image 4</div>
-    </div>
-    <div>
-        <img src="C:/Users/alvin/OneDrive/Desktop/image/5.jpg" alt="Image 5">
-        <div class="caption">Image 5</div>
-    </div>
+       <img src="image/1.jpg">
+        <img src="image/2.jpg">
+        <img src="image/3.jpg">
+        <img src="image/4.jpg">
+        <img src="image/5.jpg">
 </div>
 </section>
 

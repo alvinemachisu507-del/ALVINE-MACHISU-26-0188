@@ -9,7 +9,7 @@
 /* General Body */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ec9494;
     margin: 0;
     padding: 0;
     color: #333;
@@ -254,6 +254,7 @@ tr:hover {
 </div>
 </section>
 
+<!-- Images Section -->
 <section id="images">
 <h2>Image Gallery</h2>
 <div class="gallery">
@@ -264,5 +265,7 @@ tr:hover {
         <img src="image/4.jpg">
         <img src="image/5.jpg">
 </div>
+</section>
 
+</body>
 </html>

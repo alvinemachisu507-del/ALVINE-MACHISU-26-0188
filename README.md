@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -254,7 +254,6 @@ tr:hover {
 </div>
 </section>
 
-<!-- Images Section -->
 <section id="images">
 <h2>Image Gallery</h2>
 <div class="gallery">

@@ -156,11 +156,15 @@
 
     <h3>Our Latest Arrivals</h3>
     <div class="grid-5">
-        <img src="image/1.jpg">
-        <img src="image/2.jpg">
-        <img src="image/3.jpg">
-        <img src="image/4.jpg">
-        <img src="image/5.jpg">
+<img src="C:\Users\alvin\OneDrive\Desktop\image\1.jpg" width="400"><br><br>
+
+<img src="C:\Users\alvin\OneDrive\Desktop\image\2.jpg" width="400"><br><br>
+
+<img src="C:\Users\alvin\OneDrive\Desktop\image\3.jpg" width="400"><br><br>
+
+<img src="C:\Users\alvin\OneDrive\Desktop\image\4.jpg" width="400"><br><br>
+
+<img src="C:\Users\alvin\OneDrive\Desktop\image\5.jpg" width="400">
     </div>
 
     <hr>

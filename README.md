@@ -156,11 +156,11 @@
 
     <h3>Our Latest Arrivals</h3>
     <div class="grid-5">
-        <img src="C:\Users\alvin\Downloads\Image 1.jpg"alt="Fashion 1">
-        <img src="C:\Users\alvin\Downloads\Image 2.jpg" alt="Fashion 2">
-        <img src="C:\Users\alvin\Downloads\Image 3.jpg" alt="Fashion 3">
-        <img src="C:\Users\alvin\Downloads\Image 4.jpg" alt="Fashion 4">
-        <img src="C:\Users\alvin\Downloads\Image 5.jpg" alt="Fashion 5">
+        <img src="image/1.jpg">
+        <img src="image/2.jpg">
+        <img src="image/3.jpg">
+        <img src="image/4.jpg">
+        <img src="image/5.jpg">
     </div>
 
     <hr>

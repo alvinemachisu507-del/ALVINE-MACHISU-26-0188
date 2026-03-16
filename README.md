@@ -264,7 +264,5 @@ tr:hover {
         <img src="image/4.jpg">
         <img src="image/5.jpg">
 </div>
-</section>
 
-</body>
 </html>

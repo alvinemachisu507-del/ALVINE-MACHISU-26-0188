@@ -8,7 +8,7 @@
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
-            background-color: #f4f4f9; /* Light grey/blue background */
+            background-color: #7575f6; /* Light grey/blue background */
             color: #333333; /* Dark charcoal text */
             line-height: 1.6;
         }
@@ -156,22 +156,43 @@
 
     <h3>Our Latest Arrivals</h3>
     <div class="grid-5">
-        <img src="https://via.placeholder.com/150?text=Image+1" alt="Fashion 1">
-        <img src="https://via.placeholder.com/150?text=Image+2" alt="Fashion 2">
-        <img src="https://via.placeholder.com/150?text=Image+3" alt="Fashion 3">
-        <img src="https://via.placeholder.com/150?text=Image+4" alt="Fashion 4">
-        <img src="https://via.placeholder.com/150?text=Image+5" alt="Fashion 5">
+        <img src="C:\Users\alvin\Downloads\Image 1.jpg"alt="Fashion 1">
+        <img src="C:\Users\alvin\Downloads\Image 2.jpg" alt="Fashion 2">
+        <img src="C:\Users\alvin\Downloads\Image 3.jpg" alt="Fashion 3">
+        <img src="C:\Users\alvin\Downloads\Image 4.jpg" alt="Fashion 4">
+        <img src="C:\Users\alvin\Downloads\Image 5.jpg" alt="Fashion 5">
     </div>
 
     <hr>
 
     <h3>Fashion Showcase (5 Videos)</h3>
     <div class="video-container">
-        <iframe width="45%" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
-        <iframe width="45%" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
-        <iframe width="45%" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
-        <iframe width="45%" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
-        <iframe width="45%" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ"></iframe>
+       <!DOCTYPE html>
+<html>
+<head>
+<title>My 5 YouTube Videos</title>
+</head>
+
+<body>
+
+<h2>My 5 YouTube Videos</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvt3pq2_bdY" frameborder="0" allowfullscreen></iframe>
+<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x_it6nqtHtk" frameborder="0" allowfullscreen></iframe>
+<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1XzKAdEZyxc" frameborder="0" allowfullscreen></iframe>
+<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWdd1SHDgeQ" frameborder="0" allowfullscreen></iframe>
+<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDXjSOq_iUM" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
     </div>
 
 </div>
